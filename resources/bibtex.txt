@@ -1,0 +1,6 @@
+@inproceedings{raj2020anr,
+  title={ANR-Articulated Neural Rendering for Virtual Avatars},
+  author={Raj, Amit and Tanke, Julian and Hays, James and Vo, Minh and Still, Carsten and Lassner, Christoph},
+  booktitle={arxiv},
+  year={2020}
+}
