@@ -1,6 +1,6 @@
-@inproceedings{raj2020anr,
-  title={ANR-Articulated Neural Rendering for Virtual Avatars},
-  author={Raj, Amit and Tanke, Julian and Hays, James and Vo, Minh and Still, Carsten and Lassner, Christoph},
-  booktitle={arxiv},
+@inproceedings{raj2020pva,
+  title={PVA: Pixel-aligned Volumetric Avatars},
+  author={Raj, Amit and Zollhoefer, Michael and Simon, Tomas and Saragih, Jason and Saito, Shunsuke and Hays, James and Lombardi, Stephen},
+  booktitle={arXiv:2101.02697},
   year={2020}
 }
